@@ -1,4 +1,4 @@
-# 
+# Elite AI Handwriting Recognition scripts. Featuring AI-scalability and data-augmentation — optimized for maximum performance.
 
 
 
